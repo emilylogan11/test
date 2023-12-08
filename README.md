@@ -1,7 +1,7 @@
 
 ```mermaid
 classDiagram
-Animal <|-- Duck
+    Animal <|-- Duck
     Animal <|-- Fish
     Animal <|-- Zebra
     Animal : +int age
